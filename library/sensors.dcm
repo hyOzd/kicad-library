@@ -444,6 +444,12 @@ K temperature sensor thermistor
 F http://ww1.microchip.com/downloads/en/DeviceDoc/21942e.pdf
 $ENDCMP
 #
+$CMP MLX90393
+D Melexis 3-Axis Magnetometer, I2C/SPI
+K magnetic compass
+F https://www.melexis.com/-/media/files/documents/datasheets/mlx90393-datasheet-melexis.pdf
+$ENDCMP
+#
 $CMP MMA8653FCR1
 D 3-Axis 10-bit Digital Accelerometer with I2C interface
 K Accelerometer I2C 
